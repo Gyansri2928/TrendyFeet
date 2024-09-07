@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137927149484",
+    "project_id": "pharma-homeo",
+    "storage_bucket": "pharma-homeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137927149484:android:29f3788536f4370fdf1c09",
+        "android_client_info": {
+          "package_name": "com.example.pharma_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8p0aqux62qNwyEHLtypC-61ERyjixTq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137927149484:android:d7499682e2e4b94fdf1c09",
+        "android_client_info": {
+          "package_name": "com.example.pharma_homeo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8p0aqux62qNwyEHLtypC-61ERyjixTq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
